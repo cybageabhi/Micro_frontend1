@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/191f63f0-1575-4274-a34b-cdd2efd1d054/resourceGroups/Azure_ai/providers/Microsoft.Web/sites/MicroFrontendService",
+    "appService.deploySubpath": "my-microfrontend-workspace\\dist\\shell"
+}
